@@ -19,6 +19,7 @@ By comparing the temperature from different stations, the 75 is the most recorde
 * Minimum temperature was 64
 * Maximum temperature was 85
 * The average temperature was 74.9
+
 ![June](Resources/June.png)
 
 ### December
