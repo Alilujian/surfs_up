@@ -7,12 +7,12 @@ In this project, we are helping W. Avy to open his surf shop by analysing Hawaii
 ### Precipitation
 By looking at the precipitation data from 2016-08-23 to 2017-08-23, we noticed that the amount of rainfall vary a lot. In general, the amount of rainfall was lower in the winter month when compare to the summer month. From our summary table, the minimum rainfall was 0 and the maximum rainfall was 6.7. The average rainfall for the year was 0.17.
 
-![precipitationgraph](Resources/precipitationgraph.png)
+![precipitationgraph](Resources/Precipitationgraph.png)
 ![precipitation](Resources/precipitation.png)
 
 ### Temperature
 By comparing the temperature from different stations, the 75 is the most recorded temperature.
-![temperature](Resources/temperature.png)
+![temperature](Resources/temp.png)
 
 ### June
 * there are 1700 temperature records
